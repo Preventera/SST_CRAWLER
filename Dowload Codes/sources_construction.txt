@@ -1,0 +1,244 @@
+Sources en santé et sécurité au travail (SST) –
+Industrie de la construction
+Sources québécoises
+• CNESST – Commission des normes, de l’équité, de la santé et de la sécurité du travail. Organisme
+provincial qui encadre la SST au Québec, notamment via l’application de la Loi sur la SST adoptée en
+1979 axée sur la prévention des accidents du travail 1 . Le site officiel (cnesst.gouv.qc.ca) offre une
+mine d’informations pratiques (obligations légales, guides de prévention, statistiques, etc.), y
+compris des guides techniques (par ex. guide sur le comité de chantier 2 ) et la documentation
+complète des lois et règlements SST.
+• Loi sur la santé et la sécurité du travail (LSST) – Loi-cadre québécoise en SST. Son objet est
+l’élimination à la source des dangers pour la santé, sécurité et intégrité physique des travailleurs 3 .
+Adoptée en 1979, elle a mis l’emphase sur la prévention des accidents et maladies professionnelles
+et créé l’organisme régulateur (alors CSST, devenu CNESST) pour veiller à son application 1 . Texte
+intégral en ligne: LégisQuébec, RLRQ c. S-2.1 4 .
+• Code de sécurité pour les travaux de construction (CSTC) – Règlement québécois pris sous la LSST
+qui édicte les règles de sécurité spécifiques aux chantiers de construction. Son objectif est d’assurer
+la santé, la sécurité et l’intégrité physique des travailleurs sur tous les chantiers, en couvrant
+l’organisation du travail, les outils, équipements et travaux présentant des risques particuliers 5 .
+Texte intégral: LégisQuébec, c. S-2.1, r. 4 (incluant les mises à jour récentes sur, par ex., la protection
+contre les chutes).
+• ASP Construction – Association sectorielle paritaire de la construction, fondée en 1985 (art.99 LSST)
+pour la prévention en SST dans ce secteur. L’ASP Construction est reconnue comme « un organisme
+de référence en matière de prévention en SST pour les travailleurs et les employeurs du
+secteur de la construction » 6 . Sa mission est de fournir aux employeurs et travailleurs des
+services de formation, information, recherche et conseil afin d’éliminer les accidents et maladies
+professionnelles sur les chantiers 7 . Site : asp-construction.org (inclut centre de documentation,
+bulletins Prévenir, outils pratiques et veille réglementaire).
+• IRSST – Institut de recherche Robert-Sauvé en santé et sécurité du travail. Centre de recherche
+québécois fondé en 1980, reconnu pour ses études scientifiques visant l’avancement des
+connaissances en prévention des lésions professionnelles 8 3 . L’IRSST publie de nombreux
+rapports et articles sur la SST, dont plusieurs concernant l’industrie de la construction (ex. prévention
+des chutes, exposition à la silice, etc.). Son dépôt institutionnel PhareSST offre un accès libre à ces
+publications (exemple : étude en accès libre sur l’exposition des travailleurs de la construction à
+la silice cristalline 9 ). Site : irsst.qc.ca (ressources disponibles en français et en anglais).
+
+1
+
+• Textes juridiques québécois – Outre la LSST et le CSTC mentionnés ci-dessus, le cadre SST du
+Québec comprend des règlements ciblés (ex. Règlement sur les mécanismes de prévention propres à un
+chantier de construction, Règlement sur le programme de prévention, etc. – voir LégisQuébec, chap.
+S-2.1 10 11 ). Les liens vers ces textes complets sont fournis via la section Lois et règlements du site
+de la CNESST, avec renvoi vers LégisQuébec 12 13 .
+
+Sources canadiennes
+• Centre canadien d’hygiène et de sécurité au travail (CCHST) – Organisme fédéral (Canadian
+Centre for Occupational Health and Safety, CCOHS) fournissant des ressources fiables et pratiques
+en SST pour tout le Canada. Son site (cchst.ca) offre des fiches d’information « Réponses SST », des
+guides, des cours en ligne et même une base de données sur les lois et normes 14 15 . Le CCHST
+vise à promouvoir la consultation entre les juridictions fédérale/provinciales et fournit un service
+gratuit de renseignements (Infoligne Sécurité) pour répondre aux questions des employeurs et
+travailleurs. (Voir aussi son portail CanOSH qui centralise les liens vers les ressources SST
+gouvernementales canadiennes 16 .)
+• Normes CSA (Association canadienne de normalisation) – Organisme canadien de normalisation
+produisant de nombreuses normes en SST. Le Groupe CSA publie plus de 200 normes relatives à la
+santé et sécurité du travail, dont bon nombre sont référencées dans les lois 17 . Ces normes
+couvrent aussi bien les EPI et équipements, que les systèmes de management SST et la sécurité
+psychologique. Par exemple, la norme CSA Z1000 établit un système de gestion de la SST (Canada a
+aussi adopté la norme internationale ISO 45001 avec des écarts nationaux 18 ), et des normes
+spécifiques existent pour la construction (p. ex. protection contre les chutes, travaux en espace clos,
+installations électriques – souvent harmonisées avec les NFPA/ISO). Site : csagroup.org – section SST
+19
+20 (présentation du catalogue de normes SST, abonnement requis pour le texte intégral de la
+plupart des normes).
+• Code canadien du travail, Partie II – Législation fédérale régissant la santé et sécurité au travail
+pour les employés de compétence fédérale (banques, télécommunications, transport interprovincial,
+etc.). La Partie II du Code vise exclusivement à « prévenir les accidents et les maladies liés à l’occupation
+d’un emploi » 21 . Elle impose aux employeurs fédéraux le devoir de protéger la SST de leurs
+employés et de mettre en place des comités de sécurité, programmes de prévention, droit de refus,
+etc. Texte complet : disponible sur le site du Ministère de la Justice (lois-laws.justice.gc.ca) – L.R.C.
+1985, ch. L-2, Partie II 22 23 . Ce code est complété par le Règlement canadien sur la santé et la
+sécurité au travail (RCSST, DORS/86-304) qui détaille les exigences techniques (par ex. normes
+d’aération, protection machine, travail en hauteur, etc.) – texte disponible sur Justice Canada 24 .
+• Lois et organismes provinciaux (Canada) – Chaque province et territoire dispose de sa propre loi
+SST (généralement intitulée Loi sur la santé et la sécurité au travail ou équivalent) et de son organisme
+de réglementation/inspection 25 . Ces lois provinciales s’appliquent à la majorité des secteurs non
+fédéraux et sont administrées par un ministère du Travail ou un organisme spécialisé (souvent
+appelé WorkSafe ou Commission des accidents du travail selon les provinces) 26 . Exemples : la Loi
+sur la santé et la sécurité au travail de l’Ontario (Ontario Occupational Health and Safety Act, RSO
+1990, c.O.1) encadrée par le Ministère du Travail de l’Ontario, ou WorkSafeBC en ColombieBritannique qui édicte et fait respecter les règlements de SST pour les lieux de travail de cette
+province. Les sites web de ces organismes (ex: ontario.ca/SST pour l’Ontario; worksafebc.com pour la
+
+2
+
+C.-B.) offrent codes de pratiques, guides sectoriels (y compris construction), et accès aux textes
+juridiques provinciaux mis à jour.
+• Publications scientifiques au Canada – Des instituts de recherche et universités à travers le pays
+contribuent à la littérature en SST. Par exemple, l’Institute for Work & Health (IWH, basé en
+Ontario) publie des recherches appliquées sur l’efficacité des interventions en prévention dans
+différents secteurs, y compris la construction. On peut également consulter des revues scientifiques
+canadiennes ou internationales en SST (p. ex. Journal of Occupational and Environmental Hygiene,
+Safety Science, Policy and Practice in Health and Safety, etc.) pour trouver des études pertinentes.
+Plusieurs travaux canadiens sont disponibles en libre accès via des bases de données ou sites
+d’organismes (le CCHST maintient une bibliographie et l’IRSST diffuse les résultats de recherches
+subventionnées au Québec, comme indiqué ci-dessus).
+
+Sources internationales
+• OSHA (Occupational Safety & Health Administration, É.-U.) – Organisme fédéral des États-Unis
+qui réglemente la SST au niveau national. OSHA publie les normes obligatoires de SST, notamment
+les règlements de sécurité pour la construction (29 CFR Part 1926) qui couvrent en détail tous les
+aspects de la sécurité sur les chantiers (exigences sur les échafaudages, travaux électriques,
+protection antichute, etc.) 27 . Le site officiel (osha.gov) donne accès gratuitement aux textes
+complets des normes (Standards) ainsi qu’à l’Occupational Safety and Health Act de 1970 (loi
+fondatrice d’OSHA) 28 . On y trouve aussi des guides pratiques, fiches techniques et outils (par ex.
+campagne National Safety Stand-Down contre les chutes 29 ). NB: Certaines réglementations OSHA
+clés en construction incluent la norme générale du devoir (General Duty Clause), les limitations
+d’exposition aux substances (ex. plomb, silice cristalline) et l’obligation de programme de sécurité
+pour les chantiers dangereux.
+• NIOSH (National Institute for Occupational Safety and Health, É.-U.) – Organisme de recherche
+en SST aux États-Unis (rattaché aux CDC) produisant des critères et recommandations fondés sur la
+science. NIOSH mène de nombreuses études sur les risques dans la construction et publie des
+documents tels que des fiches pratiques, alertes et rapports techniques. Par exemple, NIOSH a
+diffusé une fiche de prévention détaillée pour éviter les chutes mortelles de toits, échelles et
+échafaudages en chantier 30 . Son site (cdc.gov/niosh) met à disposition des bases de données
+d’accidents (programme FACE), des applications (ex. NIOSH Ladder Safety App pour sécuriser l’usage
+des échelles), ainsi que des revues de recherche (il collabore fréquemment avec OSHA et le CPWR –
+Center for Construction Research and Training – pour promouvoir les meilleures pratiques basées
+sur la recherche 31 ).
+• ISO et normes internationales – L’Organisation internationale de normalisation (ISO) édite des
+normes de portée mondiale en matière de gestion des risques et de SST. Notamment, la norme
+ISO 45001:2018 est le référentiel international pour les systèmes de management de la SST, offrant
+un cadre pour améliorer la sécurité des travailleurs et éliminer les dangers sur les lieux de travail
+32 . Également importante, la norme ISO 31000:2018 fournit les principes directeurs pour le
+management du risque dans toute organisation, afin d’harmoniser les multiples approches et
+méthodes existantes en gestion des risques 33 . De nombreuses autres normes ISO spécifiques
+concernent la construction (par ex. ISO sur les équipements de protection individuelle, grues de
+chantier, échafaudages, etc.) ou des domaines connexes (ISO 14001 pour l’environnement, ISO 9001
+
+3
+
+pour la qualité, qui peuvent intégrer la SST). Site : iso.org (présentation des normes – textes
+complets généralement payants, mais résumés et avant-propos disponibles).
+• OIT (Organisation internationale du Travail) – L’OIT établit des normes internationales du travail, y
+compris des conventions et recommandations sur la SST. Par exemple, la Convention OIT n° 155
+(1981) concerne la sécurité et la santé des travailleurs et le milieu de travail en général, tandis que la
+Convention n° 167 (1988) cible spécifiquement la sécurité et la santé dans la construction 34 . Cette
+dernière énonce des principes visant à garantir des chantiers « sans danger et sans risque pour la
+santé des travailleurs » et a conduit de nombreux pays à adapter leur réglementation en
+conséquence (coordination de sécurité, protection contre les chutes, etc.). L’OIT publie aussi des
+codes de pratique non obligatoires servant de guides, tels que le Code de pratique sur la sécurité et la
+santé dans la construction (1992), qui aide à mettre en œuvre les dispositions de la Convention 167
+35 . Ressources : base NORMLEX de l’OIT pour les textes officiels des conventions et rapports
+nationaux, et site de l’OIT (ilo.org) pour les documents guides et statistiques mondiales sur les
+accidents du travail.
+• Union européenne (UE) – Au niveau européen, la SST sur les chantiers est encadrée par des
+directives et soutenue par un organisme dédié. La Directive 92/57/CEE du Conseil (24 juin 1992)
+impose ainsi des prescriptions minimales de sécurité et de santé pour les chantiers temporaires ou
+mobiles. Elle vise notamment à renforcer la coordination de la prévention dès la phase de
+conception des projets, via la nomination d’un coordonnateur de sécurité et l’application des
+principes généraux de prévention tout au long du chantier 36 . Cette directive, transposée dans les
+législations nationales de chaque État membre, a élevé le niveau de protection des travailleurs de la
+construction dans l’UE (ex.: en France, introduction du Plan Général de Coordination en matière de
+sécurité et de protection de la santé – PGCSPS). Par ailleurs, l’Agence européenne pour la SST (EUOSHA) diffuse des recherches, statistiques et bonnes pratiques à l’échelle européenne. Son site
+(osha.europa.eu) propose des rapports multilingues sur divers risques (ex. substances dangereuses
+sur les chantiers, troubles musculo-squelettiques dans la construction), des outils interactifs
+d’évaluation des risques (OiRA), et des campagnes paneuropéennes de sensibilisation en SST.
+• Publications scientifiques internationales – De nombreuses recherches académiques éclairent la
+SST dans la construction à l’échelle mondiale. Par exemple, des revues systématiques récentes ont
+synthétisé les avancées en matière de technologies pour améliorer la sécurité sur chantier (p. ex.
+utilisation de l’intelligence artificielle et des outils numériques) 37 . Des journaux scientifiques
+spécialisés tels que Safety Science, Journal of Construction Engineering and Management, ou
+International Journal of Occupational Safety and Ergonomics publient régulièrement des études sur la
+gestion des risques, l’efficacité des formations, la culture de sécurité, etc., dans le domaine de la
+construction. Ces publications, souvent accessibles via des bases de données comme ScienceDirect,
+IEEE Xplore ou PubMed, constituent des sources validées pour approfondir des aspects pointus de la
+SST (par exemple, analyses statistiques des causes d’accidents, évaluations de dispositifs de
+protection innovants, ou comparaisons internationales des réglementations 38 ). En complément,
+des organismes comme la Fondation internationale de la sécurité ou le Conseil international de
+recherche en bâtiment diffusent également des actes de conférences et rapports techniques sur la
+sécurité dans l’industrie de la construction à l’échelle globale.
+Sources : CNESST (lois et guides) 1 2 ; LégisQuébec (LSST, CSTC) 4 5 ; ASP Construction 6 7 ; IRSST
+(recherche) 3 9 ; CCHST 15 ; CSA Group 17 18 ; Justice Canada (Codifications fédérales) 22 24 ; CCOHS/
+
+4
+
+CCHST (législation par juridiction) 25 26 ; OSHA (USA) 28 27 ; NIOSH/CDC 30 ; ISO 32
+(Directive 92/57/CEE) 36 ; Exemples de publications scientifiques 37 38 .
+
+5
+
+33 ;
+
+OIT 34 ; EU
+
+1
+
+12
+
+13
+
+Lois et règlements | Commission des normes de l'équité de la santé et de la sécurité du travail -
+
+CNESST
+https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/lois-reglements
+2
+
+Guide pratique : comité de chantier - CNESST
+
+https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-pratique-comite-chantier
+3
+
+8
+
+La recherche en santé et en sécurité du travail
+
+https://www.irsst.qc.ca/recherche-sst/accueil
+4
+
+10
+
+11
+
+Légis Québec
+
+https://www.legisquebec.gouv.qc.ca:443/fr/document/lc/s-2.1
+5
+
+Règlement modifiant le Code de sécurité pour les travaux de construction
+
+https://cdn-contenu.quebec.ca/cdn-contenu/gouvernement/MCE/dossiers-soumis-conseil-ministres/2022-1121_memoire.pdf
+6
+
+7
+
+ASP Construction - L'ASP Construction - L'ASP Construction :
+
+https://www.asp-construction.org/a-propos/l-asp-construction
+9
+
+[PDF] Construction workers' exposure to crystalline silica - PhareSST
+
+https://pharesst.irsst.qc.ca/cgi/viewcontent.cgi?article=1052&context=expertises-revues
+14
+
+15
+
+Centre canadien d'hygiène et de sécurité au travail
+
+https://www.cchst.ca/
+16
+
+Website to Help Find Canadian Health and Safety Information
+
+https://www.canada.
+(Content truncated due to size limit. Use line ranges to read in chunks)

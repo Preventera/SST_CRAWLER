@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "description": "Sources SST Québécoises pour crawler Preventera",
+    "last_updated": "2025-06-19",
+    "total_sources": 13
+  },
+  "sources": {
+    "cnesst_centredoc": {
+      "name": "CNESST CentreDoc",
+      "base_url": "https://www.centredoc.cnesst.gouv.qc.ca",
+      "start_urls": [
+        "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/construction",
+        "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/prevention-risques",
+        "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/formation-sst"
+      ],
+      "crawl_method": "firecrawl",
+      "max_pages": 100,
+      "extract_pdfs": true,
+      "priority": 1,
+      "region": "quebec",
+      "sector": "general"
+    },
+    "cnesst_prevention": {
+      "name": "CNESST Prévention",
+      "base_url": "https://www.cnesst.gouv.qc.ca",
+      "start_urls": [
+        "https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention",
+        "https://www.cnesst.gouv.qc.ca/fr/prevention-securite/informations-prevention"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 3,
+      "priority": 1,
+      "region": "quebec",
+      "sector": "general"
+    },
+    "cnesst_risques_secteurs": {
+      "name": "CNESST Risques par Secteur",
+      "base_url": "https://risquesdelesions.cnesst.gouv.qc.ca",
+      "start_urls": [
+        "https://risquesdelesions.cnesst.gouv.qc.ca/Pages/introduction.aspx",
+        "https://risquesdelesions.cnesst.gouv.qc.ca/Pages/selectionsecteur.aspx"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 1,
+      "region": "quebec",
+      "sector": "multi_secteurs"
+    },
+    "irsst": {
+      "name": "IRSST Publications",
+      "base_url": "https://www.irsst.qc.ca",
+      "start_urls": [
+        "https://www.irsst.qc.ca/publications-et-outils/centre-documentation",
+        "https://www.irsst.qc.ca/publications-et-outils/publications"
+      ],
+      "crawl_method": "hybrid",
+      "max_pages": 200,
+      "extract_pdfs": true,
+      "priority": 1,
+      "region": "quebec",
+      "sector": "recherche"
+    },
+    "asp_construction": {
+      "name": "ASP Construction",
+      "base_url": "https://www.asp-construction.org",
+      "start_urls": [
+        "https://www.asp-construction.org/ressources-sst",
+        "https://www.asp-construction.org/formations"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 1,
+      "region": "quebec",
+      "sector": "construction"
+    },
+    "asstsas": {
+      "name": "ASSTSAS Affaires Sociales",
+      "base_url": "https://asstsas.qc.ca",
+      "start_urls": [
+        "https://asstsas.qc.ca/publications-et-outils",
+        "https://asstsas.qc.ca/formations"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "affaires_sociales"
+    },
+    "apsam": {
+      "name": "APSAM Affaires Municipales",
+      "base_url": "https://www.apsam.com",
+      "start_urls": [
+        "https://www.apsam.com/publications",
+        "https://www.apsam.com/formations"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "municipal"
+    },
+    "apssap": {
+      "name": "APSSAP Administration Provinciale",
+      "base_url": "https://www.apssap.qc.ca",
+      "start_urls": [
+        "https://www.apssap.qc.ca/documentation",
+        "https://www.apssap.qc.ca/formation"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "administration"
+    },
+    "multiprevention": {
+      "name": "MultiPrévention",
+      "base_url": "https://multiprevention.org",
+      "start_urls": [
+        "https://multiprevention.org/publications/",
+        "https://multiprevention.org/formation/"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "manufacturier"
+    },
+    "autoprevention": {
+      "name": "Auto Prévention",
+      "base_url": "https://www.autoprevention.org",
+      "start_urls": [
+        "https://www.autoprevention.org/ressources",
+        "https://www.autoprevention.org/formations"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "automobile"
+    },
+    "asfetm": {
+      "name": "ASFETM Transport et Machines",
+      "base_url": "https://www.asfetm.com",
+      "start_urls": [
+        "https://www.asfetm.com/documentation",
+        "https://www.asfetm.com/formations"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "transport"
+    },
+    "centre_patronal": {
+      "name": "Centre Patronal SST",
+      "base_url": "https://www.centrepatronalsst.qc.ca",
+      "start_urls": [
+        "https://www.centrepatronalsst.qc.ca/ressources-sst",
+        "https://www.centrepatronalsst.qc.ca/formations"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 2,
+      "region": "quebec",
+      "sector": "general"
+    },
+    "inspq": {
+      "name": "INSPQ Santé Publique",
+      "base_url": "https://www.inspq.qc.ca",
+      "start_urls": [
+        "https://www.inspq.qc.ca/sante-au-travail",
+        "https://www.inspq.qc.ca/publications"
+      ],
+      "crawl_method": "scrapy",
+      "max_depth": 2,
+      "priority": 3,
+      "region": "quebec",
+      "sector": "sante_publique"
+    }
+  },
+  "settings": {
+    "default_max_pages": 50,
+    "default_max_depth": 2,
+    "default_crawl_method": "scrapy",
+    "respect_robots_txt": true,
+    "delay_between_requests": 1,
+    "timeout": 30
+  }
+}

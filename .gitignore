@@ -1,0 +1,49 @@
+# Données et sorties
+output/
+data/chroma_db/
+data/processed/
+logs/
+*.log
+raw_items_*.json
+
+# Environnements virtuels
+venv/
+env/
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials et config sensibles
+config/secrets.json
+.env.local
+api_keys.txt
+
+# Fichiers temporaires
+temp/
+tmp/
+*.tmp
+
+# Base de données
+*.db
+*.sqlite3
+
+# Archives
+*.zip
+*.tar.gz
+*.rar

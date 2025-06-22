@@ -1,0 +1,215 @@
+SQUADRAI_)HUGO
+RESOURCES CRAWL API ET LIENS
+23 MAI
+
+je vais commencer par  t'alimenteren ressources que je veux que tu crawles rag et structure pour que Hugo soit a jour. Il y en a avec des liens, des apis, des documents  Crane safety: New tool for addressing common hazards | Safety+Health NCCCO Foundation | New Online Safety Tool Developed for the Crane Industry | NCCCO Foundation Crane safety hazards and tech solutions: NSC releases new report | Safety+Health Travaux routiers : emprunter la voie de la sécurité | Reportages | Prévention au travail ASP Construction - Veilles informationnelles Exosquelettes dans le BTP : une étude évalue les impacts sur la santé des opérateurs | Prévention BTP Drones et BTP – Vol de drone, les critères de choix en fonction de votre usage | Prévention BTP Prévention BTP : santé, sécurité et prévention des risques sur les chantiers | un site de l'OPPBTP La prévention pour les maçons | Prévention BTP  (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.preventionbtp.fr/",  https://drive.google.com/drive/folders/1SWcbVtiVlzr7NRtWu_CIqTodMfTp-61_?usp=drive_link
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}')  https://youtu.be/Qsc8gU0mx-0?feature=shared (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.asp-construction.org/ressources-sst/centre-de-documentation/veille",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}')  https://www.preventionbtp.fr/tous-les-metiers/la-prevention-pour-les-macons_cnUU44cTwXxVGmiELg9kZ9 curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.preventionbtp.fr/outils-en-ligne",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}'**Programme de prévention pour un chantier de constructionbasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/mesures-chantiers-construction/programme-prevention-chantier-construction
+Le programme de prévention pour un chantier de construction sert à identifier et éliminer à la source les dangers pour la santé, la sécurité et l’intégrité physique et psychique des travailleurs de la construction.
+**S-2.1, r. 10 - Règlement sur le programme de préventionbasic**
+https://www.legisquebec.gouv.qc.ca/fr/ShowDoc/cr/S-2.1,%20r.%2010%20/
+Aux fins prévues par le présent règlement, sont établies les catégories d'établissements et de chantiers de construction décrites à l'annexe 1. D. 1282-82, a. 2 ...
+**Identifier les risques dans le milieu de travailbasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/faire-un-programme-prevention/identifier-risques-dans-milieu-travail
+Identifier et prioriser les risques qui sont présents dans le milieu de travail est la première étape de la démarche de prévention.
+**Montréal, le 20 décembre 2022 À tous les agents de sécurité sur les ...basic**
+https://www.collegeahuntsic.qc.ca/documents/2022-communique-sur-changements-legislatif-et-reglementaire.pdf
+Dec 20, 2022 ... CNESST :https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser- · prevention/mesures-chantiers-construction/coordonnateur-sante-securite.
+**Corriger les risques en milieu de travailbasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/faire-un-programme-prevention/corriger-risques
+Comment corriger efficacement les risques à la santé et sécurité du travail dans le cadre d’une démarche de prévention.(curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/mesures-chantiers-construction/programme-prevention-chantier-construction",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}') **Corriger les risques en milieu de travailbasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/faire-un-programme-prevention/corriger-risques
+Comment corriger efficacement les risques à la santé et sécurité du travail dans le cadre d’une démarche de prévention.
+**Montréal, le 20 décembre 2022 À tous les agents de sécurité sur les ...basic**
+https://www.collegeahuntsic.qc.ca/documents/2022-communique-sur-changements-legislatif-et-reglementaire.pdf
+Dec 20, 2022 ... CNESST :https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser- · prevention/mesures-chantiers-construction/coordonnateur-sante-securite.
+**Identifier les risques dans le milieu de travailbasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/faire-un-programme-prevention/identifier-risques-dans-milieu-travail
+Identifier et prioriser les risques qui sont présents dans le milieu de travail est la première étape de la démarche de prévention.
+**Comité de santé et de sécuritébasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/regime-interimaire/comite-sante-securite
+La Loi sur la santé et la sécurité du travail prévoit des mécanismes de prévention et de participation pour prendre en charge la santé et la sécurité dans les milieux de travail.
+**Organiser la préventionbasic**
+https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention
+Organiser la prévention, c’est prendre en charge la santé et la sécurité du travail dans les milieux de travail.curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.cnesst.gouv.qc.ca/fr/prevention-securite/organiser-prevention/mesures-chantiers-construction",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}'  (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.asp-construction.org/ressources-sst/centre-de-documentation/veille",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}') (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.acq.org/documentation/sst/",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}')  **Rapports d'enquêtebasic**
+https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/rapports-denquete
+Explorer par sujetchevron_right; Rapports d'enquête. Trouver des rapports d'enquête. Vous ... centreIST@cnesst.gouv.qc.ca. © CNESST,. 2025. Accès à l'information.
+**Accueilbasic**
+https://www.cnesst.gouv.qc.ca/fr
+Bienvenue sur le site de la CNESST, votre porte d'entrée au Québec pour vous informer sur vos droits et obligations en matière de travail. Je pense vivre du ...
+**Centre d'information scientifique et technique de la CNESSTbasic**
+https://www.centredoc.cnesst.gouv.qc.ca/in/fr/search.xhtml?sf=*&query=lc=NO-003164
+Trouver des normes. Explorer par sujets. Consulter la veille en SST. Employés de la CNESST ... centreIST@cnesst.gouv.qc.ca. © CNESST,. 2025. Accès à l'information.
+**Appareils de levage de personnes : Mise à jour réglementairebasic**
+https://www.cnesst.gouv.qc.ca/sites/default/files/documents/dc600-202-203web.pdf
+Information SST au centredoc.cnesst.gouv.qc.ca. Nous offrons un service de ... csst.qc.ca/prevention/theme/risques-rou- · tiers/Pages/risques-routiers ...
+**Audiovisuelsbasic**
+https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/audiovisuels
+Explorer par sujetchevron_right; Audiovisuels. Trouver des documents audiovisuels. Vous ... centreIST@cnesst.gouv.qc.ca. © CNESST,. 2025. Accès à l'information. (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/trouver-des-normes",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5(curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}') (**Rapports d'enquêtebasic**
+https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/rapports-denquete
+Explorer par sujetchevron_right; Rapports d'enquête. Trouver des rapports d'enquête. Vous ... centreIST@cnesst.gouv.qc.ca. © CNESST,. 2025. Accès à l'information.
+**Appareils de levage de personnes : Mise à jour réglementairebasic**
+https://www.cnesst.gouv.qc.ca/sites/default/files/documents/dc600-202-203web.pdf
+Information SST au centredoc.cnesst.gouv.qc.ca. Nous offrons un service de ... csst.qc.ca/prevention/theme/risques-rou- · tiers/Pages/risques-routiers ...
+**Explorer par sujetbasic**
+https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet
+La prévention par thème. Chariot élévateur · Ergonomie · Espace clos · Jeunes travailleurs ... centreIST@cnesst.gouv.qc.ca. © CNESST,. 2025. Accès à l'information.
+**Palettiers : hauts lieux de chutesbasic**
+https://www.cnesst.gouv.qc.ca/sites/default/files/documents/dc600-202-182web.pdf
+Information SST à centredoc.cnesst.gouv.qc.ca. Nous offrons un service de ... https://www.centredoc.cnesst.gouv.qc.ca/pdf/Enquete/ed004163.pdf. Pour ...
+**Audiovisuelsbasic**
+https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/audiovisuels
+Explorer par sujetchevron_right; Audiovisuels. Trouver des documents audiovisuels. Vous ... centreIST@cnesst.gouv.qc.ca. © CNESST,. 2025. Accès à l'information.) (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/chariot-elevateur",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+) (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/ergonomie",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}') (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/risques-physiques",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}') 
+}')   (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/explorer-par-sujet/securite-des-machines",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}')   https://drive.google.com/drive/folders/1SWcbVtiVlzr7NRtWu_CIqTodMfTp-61_?usp=drive_link   (curl -X POST "https://app.watercrawl.dev/api/v1/core/search/" \
+  -H "Content-Type: application/json" \
+  -H "X-Api-Key: wc-mvaqemz8503dojt96ay87q3pylyn1yo8" \
+  -d '{
+  "query": "https://www.centredoc.cnesst.gouv.qc.ca/permalink/PN-90bc1b41-54de-4336-a966-b5c12a491f52",
+  "search_options": {
+    "time_range": "any",
+    "search_type": "web",
+    "depth": "basic"
+  },
+  "result_limit": 5
+}')

@@ -1,0 +1,20 @@
+streamlit==1.31.1
+pandas==2.1.4
+numpy==1.26.3
+sentence-transformers==2.3.1
+faiss-cpu==1.7.4
+plotly==5.18.0
+
+# Dépendances pour le crawling et le traitement de texte
+scrapy==2.13.0
+spacy==3.8.7
+beautifulsoup4==4.12.3
+python-dateutil==2.9.0
+pdfminer.six==20250506
+nltk==3.9.1
+schedule==1.2.2
+requests==2.31.0
+tqdm==4.66.2
+
+# Modèle français pour spaCy
+https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.8.0/fr_core_news_md-3.8.0-py3-none-any.whl
